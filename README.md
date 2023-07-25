@@ -1,4 +1,4 @@
-##Portfolio Website - FreeCodeCamp project 
+##Register Login - Backend
 
 ![image](https://github.com/G-don/RegisterLogin-Backend/blob/main/Visuals/1.png)
 ![image](https://github.com/G-don/RegisterLogin-Backend/blob/main/Visuals/2.png)
@@ -16,19 +16,12 @@
 
 ##Description
 
-This is the final project from freeCodeCamp related to web design, where I created a simple portfolio website with 3 sections, about, projects and contact. This was the final step in developing my Html and Css basics and learning how to use some of the tricks.  
+This was my curiosity to better understand what goes on under the hood of a login register backend. It was quite a challenge and allowed me to get the know how to do a register/login whenever I need to, and most certainly I will be using it in the near future! This simple program, which among other features, has password encoder, email validation and email confirmation with 15m time to activate account. 
 
-##Instructions
-
-If you are cloning this project, you will need
-
-1 - VsCode with live server extension.
-
-2 - Go live 
 
 ##Features
 
-All projects have hyperlinks to the actual github repo with all the code, and the contact section has links to my linkedin and github and email.
+This will be developed as a front-end and applied to a new API that I will develop. 
 
 ##Visuals
 
@@ -40,4 +33,4 @@ Please feel free to send me your ideas or suggestions, feedback or feature reque
 
 ##Licence
 
-Portfolio website is released under the MIT licence. 
+RegisterLogin is released under the MIT licence. 
