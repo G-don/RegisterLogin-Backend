@@ -1,15 +1,16 @@
 ##Portfolio Website - FreeCodeCamp project 
 
-![image](https://github.com/G-don/PortfolioWebsite-FCC/blob/main/VISUALS/1.png)
-![image](https://github.com/G-don/PortfolioWebsite-FCC/blob/main/VISUALS/2.png)
-![image](https://github.com/G-don/PortfolioWebsite-FCC/blob/main/VISUALS/3.png)
-![image](https://github.com/G-don/PortfolioWebsite-FCC/blob/main/VISUALS/4.png)
+![image](https://github.com/G-don/RegisterLogin-Backend/blob/main/Visuals/1.png)
+![image](https://github.com/G-don/RegisterLogin-Backend/blob/main/Visuals/2.png)
+![image](https://github.com/G-don/RegisterLogin-Backend/blob/main/Visuals/3.png)
+![image](https://github.com/G-don/RegisterLogin-Backend/blob/main/Visuals/4.png)
 
 ##TechStack
 
 <p align="left">
-<img src="https://github.com/Drete457/Drete457/blob/master/icons/html5-original-wordmark.svg" alt="html5" width="60" height="60"/>
-<img src="https://github.com/Drete457/Drete457/blob/master/icons/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
+<img src="https://github.com/Drete457/Drete457/blob/master/icons/java-original.svg" alt="java" width="60" height="60"/>
+<img width="60" src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" title="Spring Boot"/>
+<img width="60" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PostgreSQL-Dark.svg" alt="PostGre" title="Spring"/>
 </p>
 
 
